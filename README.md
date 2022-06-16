@@ -1,16 +1,17 @@
 # BAREFEET.ID
+First project
 
-<h2>Form Awal</h2>
+<h3>Form Awal</h3>
 <img src="https://raw.githubusercontent.com/Shaqq771/Barefeet/master/Dokumentasi/Barefeet1.png">
-<h2>Panel Menu</h2>
+<h3>Panel Menu</h3>
 <img src="https://raw.githubusercontent.com/Shaqq771/Barefeet/master/Dokumentasi/Barefeet2.png">
-<h2>Panel Products</h2>
+<h3>Panel Products</h3>
 <img src="https://raw.githubusercontent.com/Shaqq771/Barefeet/master/Dokumentasi/Barefeet3.png">
-<h2>Panel Perhitungan</h2>
+<h3>Panel Perhitungan</h3>
 <img src="https://raw.githubusercontent.com/Shaqq771/Barefeet/master/Dokumentasi/Barefeet4.png">
-<h2>Panel Lokasi</h2>
+<h3>Panel Lokasi</h3>
 <img src="https://raw.githubusercontent.com/Shaqq771/Barefeet/master/Dokumentasi/Barefeet5.png">
-<h2>Panel Contacts</h2>
+<h3>Panel Contacts</h3>
 <img src="https://raw.githubusercontent.com/Shaqq771/Barefeet/master/Dokumentasi/Barefeet6.png">
-<h2>Panel About</h2>
+<h3>Panel About</h3>
 <img src="https://raw.githubusercontent.com/Shaqq771/Barefeet/master/Dokumentasi/Barefeet7.png">
